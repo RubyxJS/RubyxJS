@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Reuben
-- 👀 I’m interested in you
-- 🌱 I’m currently learning about you
-- 💞️ I’m looking to collaborate on owning you
-- 📫 How to reach me? - dont, ill come to you
+Hello World~
+My name is Reuben Agbonlahor.
+I'm currently studying Software Development in Rathmines and have a level 5 in Computing and Cyber and Security.
 
 <!---
 RubyxJS/RubyxJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
