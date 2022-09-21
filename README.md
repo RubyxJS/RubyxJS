@@ -1,7 +1,7 @@
 Hello World~
 - My name is Reuben Agbonlahor.
 I'm currently studying Software Development in Rathmines and have a level 5 in Computing and Cyber and Security.
-- Currently I'm studying:
+ Currently I'm studying:
 - GUI (Visual Basic)
 - Maths for I.T
 - Relational Database
