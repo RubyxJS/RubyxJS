@@ -7,7 +7,7 @@ I specialise in agile systems. But I'm also experiencin in:
 - Java
 - C#
 - Fullstack
-Feel free to reach out for any enquiries.
+-Feel free to reach out for any enquiries.
 
 <!---
 RubyxJS/RubyxJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
