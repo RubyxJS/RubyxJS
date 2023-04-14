@@ -1,13 +1,13 @@
 Hello World~
 - My name is Reuben Agbonlahor.
-I'm currently studying Software Development in Rathmines and have a level 5 in Computing and Cyber and Security.
- Currently I'm studying:
-- GUI (Visual Basic)
-- Maths for I.T
-- Relational Database
-- C++ and Java
-- Relational Database 
- - and Object Oreinted Programming
+I'm currently employed as a Product Analyst at Salesforce.
+I specialise in agile systems. But I'm also experiencin in:
+- Visual Basic
+- SQL
+- Java
+- C#
+- Fullstack
+Feel free to reach out for any enquiries.
 
 <!---
 RubyxJS/RubyxJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
