@@ -7,6 +7,7 @@ I specialise in agile systems. But I'm also experiencin in:
 - Java
 - C#
 - Fullstack
+
 -Feel free to reach out for any enquiries.
 
 <!---
